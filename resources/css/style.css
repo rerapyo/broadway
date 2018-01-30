@@ -1,0 +1,30 @@
+body {
+  text-align: center;
+  font-family: helvetica;
+  background-color: green;
+}
+
+header {
+  background-image: url("./images/the-flatiron-building.png");
+}
+
+footer {
+  background-color: dimgray;
+  color: white;
+}
+
+p {
+  font-size: 14px;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.white {
+  color: white;
+}
+
+.copy {
+  font-size: 11px;
+}
